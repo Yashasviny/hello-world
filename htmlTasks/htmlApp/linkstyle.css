@@ -1,0 +1,17 @@
+header {
+  background-color: grey;
+  height:75px;
+  text-align: center;
+}
+.test {
+  background-color: lightgreen;
+  min-height: 700px;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+footer {
+  background-color: grey;
+  text-align: center;
+}
