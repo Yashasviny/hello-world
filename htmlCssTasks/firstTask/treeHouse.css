@@ -1,123 +1,133 @@
 header {
   height: 34px;
 }
+
 .treeImg {
   float:left;
   height: 35px;
 }
+
 .nav {
   float: right;
   height: 34px;
   padding-top: 10px;
 }
-.link1 {
+
+.org {
   color: #42198e;
   margin-right: 45px;
   text-decoration-line: none;
 }
-.link2 {
+
+.sign-in {
   color: #42198e;
   margin-right: 45px;
   text-decoration-line: none;
 }
-.link3 {
+
+.sign-up {
   color: #42198e;
   margin-right: 45px;
   text-decoration-line: none;
 }
-.link4 {
+
+.free-trial {
   color: #42198e;
   margin-right: 60px;
   text-decoration-line: none;
 }
+
 body {
   margin: 0px;
 }
-.div1 {
+
+.top {
   background-color: #1bbfe8;
-  background-repeat: no-repeat;
-  background-position: center;
-  height: 400px;
-  margin-left: 0px;
-  margin-right: 0px;
+  height: 440px;
 }
+
 .upper {
   color: #fcfcfc;
   font-size: 25px;
   font-weight: bold;
-  padding-top: 200px;
-  padding-left: 520px;
+  padding-top: 15px;
+  text-align: center;
 }
+
 .middle {
   color: #fcfcfc;
   font-size: 14px;
-  padding-top: 20px;
-  padding-left: 538px;
+  padding-top: 5px;
+  text-align: center;
 }
+
 .lower {
-  border: 1px solid white;
-  height: 50px;
-  margin-left: 495px;
-  margin-right: 579px;
-  margin-top: 20px;
+  border: 1px solid #fcfcfc;
+  height: 35px;
+  margin:20px 0px 0px 582px;
+  width: 93px;
 }
-.sub{
+
+.button {
   color: #42198e;
-  padding-left: 55px;
-  padding-top: 15px;
+  padding: 10px;
 }
-.img1 {
-  position: absolute;
-  left: 14cm;
-  height: 100px;
-  width: 120px;
-  padding-top: 27px;
+
+.main-logo {
+  height: 200px;
+  margin:40px 0px 0px 500px;
 }
-.div2 {
+
+.center {
   height: 450px;
-  margin-left: 0px;
-  margin-right: 0px;
 }
-.div2_U {
-  padding-left: 501px;
-  padding-top: 69px;
-}
-.div2_U1 {
+
+.begin {
   color: #b1a9aa;
   font-size: 20px;
   font-weight: 900;
-}
-.div2_U2 {
+  padding: 50px 0px 15px;
   text-align: center;
 }
-.p1 {
-  color: #d2c6c7;
-  font-size: 12px;
+
+.info {
+  text-align: center;
 }
-.img2 {
+
+.center-para {
+  color: #d2c6c7;
+  font-size: 15px;
+}
+
+.lap {
   height: 200px;
   margin-left: 500px;
 }
-.div3 {
+
+.bottom {
   background-color: #1bbfe8;
-  height: 300px;
-  margin-left: 0px;
-  margin-right: 0px;
   }
-  form {
+
+form {
   border-color: solid #fcfcfc;
   color:#fcfcfc;
   margin-left: 500px;
   margin-right: 500px;
   }
+
   input {
     width: 200px;
   }
+
   select {
     width: 210px;
   }
+
   .submit {
+    margin: 17px 0px 0px 70px;
     width: 70px;
-    margin-left: 70px;
-    text-align: center;
+  }
+
+  .form-part {
+    padding: 25px 0px;
   }
