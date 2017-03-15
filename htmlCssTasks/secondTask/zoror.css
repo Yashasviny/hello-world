@@ -1,0 +1,172 @@
+body {
+  background-color: #fcdcb5;
+  margin: 0 25px 0 30px;
+}
+
+header {
+  margin-top: 15px;
+}
+
+.container {
+
+}
+
+.top-left {
+  float: left;
+}
+
+.zorror {
+  float: right;
+  font-family: "Ballpark";
+  padding-top: 42px
+}
+
+.travel-diaries {
+  padding-top: 8px;
+}
+
+.top-imgs {
+  display: inline;
+}
+
+.nav {
+  float: right;
+  list-style-type: none;
+  padding-top: 55px;
+}
+.home {
+  color: #0b0101;
+  font-family: "Times new roman", serif;
+  margin-right: 60px;
+  text-decoration-line: none;
+  text-transform: uppercase;
+}
+
+.blog {
+  color: #0b0101;
+  font-family: "Times new roman", serif;
+  margin-right: 45px;
+  text-decoration-line: none;
+  text-transform: uppercase;
+}
+
+.resume {
+  color: #0b0101;
+  font-family: "Times new roman", serif;
+  margin-right: 45px;
+  text-decoration-line: none;
+  text-transform: uppercase;
+}
+
+.contact {
+  color: #0b0101;
+  font-family: "Times new roman", serif;
+  margin-right: 45px;
+  text-decoration-line: none;
+  text-transform: uppercase;
+}
+
+.line {
+  width: 32cm;
+}
+
+.head-line {
+  height: 5px;
+  width: 1217px;
+}
+
+.bottom-arrow {
+  left: 576px;
+  position: absolute;
+  top: 804px;
+}
+
+.middle {
+
+}
+
+.sanf-pic {
+  height: 285px;
+}
+
+.sanf {
+  border-radius: 25px;
+  width: 1216px;
+}
+
+.img-cap {
+  bottom: 60px;
+  color: #fcfcfc;
+  margin-left: 25px;
+  position: relative;
+}
+
+.pin {
+  float: left;
+}
+
+.heading-sanf {
+  float: left;
+  margin-left: 30px;
+}
+
+.about-sanf {
+  float: left;
+  text-align: justify;
+  width: 890px;
+}
+
+.about-author {
+  background-color: #808080;
+  color: #FFFFFF;
+  float: right;
+  height: 350px;
+  width: 305px;
+}
+
+.heading-author {
+  text-align: center;
+}
+
+.author-pic-container {
+  display: inline;
+  margin-left: 70px;
+}
+
+.grey-arrow {
+  float: left;
+  position: relative;
+}
+
+.zozor-intro {
+  font-size: 15px;
+  margin: 0 15px 0 15px;
+  text-align: justify;
+}
+
+.social {
+  margin: 20px 0 0 35px;
+}
+
+.update {
+  float: left;
+  line-height: 200%;
+  margin-top: 55px;
+}
+
+.pictures {
+  float: left;
+  margin: 35px 0 0 355px;
+}
+
+.friend-list {
+  float: right;
+  line-height: 200%;
+  margin-top: 55px;
+}
+
+.friend {
+  color: #c67676;
+  display: block;
+
+}
