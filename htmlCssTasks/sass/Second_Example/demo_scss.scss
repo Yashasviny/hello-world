@@ -1,0 +1,22 @@
+//Variables in SASS
+$font-stack:    Helvetica, sans-serif;
+$primary-color:  #FF5733;
+
+h1 {
+  font: $font-stack;
+  color: $primary-color;
+}
+
+//Nesting
+.demo-div {
+   .flowers {
+     margin: 20px;
+       li {
+       color: #FF5783;
+     }
+   }
+
+   a:hover {
+     color: #FF4713;
+   }
+}

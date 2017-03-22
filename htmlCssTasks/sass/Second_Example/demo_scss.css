@@ -1,0 +1,12 @@
+h1 {
+  font: Helvetica, sans-serif;
+  color: #FF5733; }
+
+.demo-div .flowers {
+  margin: 20px; }
+  .demo-div .flowers li {
+    color: #FF5783; }
+.demo-div a:hover {
+  color: #FF4713; }
+
+/*# sourceMappingURL=demo_scss.css.map */

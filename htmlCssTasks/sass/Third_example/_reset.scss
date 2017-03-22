@@ -1,0 +1,16 @@
+//import _partial.scss
+//Mixins
+
+html,
+body,
+ul {
+  margin: 30px;
+}
+
+@mixin border-radius($radius) {
+  border-radius: $radius;
+}
+
+.demo-div {
+  @include border-radius(10px);
+}
