@@ -1,0 +1,54 @@
+.container {
+  margin: 0 15px; }
+  .container .frame {
+    background-color: #FFFFFF;
+    border: 1px solid #000000; }
+    .container .frame .first-tile {
+      display: inline-block;
+      padding: 50px 0 0 25px;
+      width: 30%; }
+      .container .frame .first-tile .first-img {
+        position: relative; }
+        .container .frame .first-tile .first-img .img-shown {
+          width: 100%; }
+        .container .frame .first-tile .first-img .icon {
+          color: #FFFFFF;
+          font-size: 30px;
+          position: absolute;
+          right: 5px; }
+      .container .frame .first-tile .first-tile-info .first-img-cap {
+        margin-left: 8px; }
+      .container .frame .first-tile .first-tile-info .button {
+        color: #f09b18;
+        border: 1px solid #f09b18;
+        background-color: #FFFFFF;
+        margin: 0 0 0 15px;
+        width: 90%; }
+      .container .frame .first-tile .first-tile-info .schedule-info {
+        margin-top: 30px;
+        padding-bottom: 10px;
+        position: relative; }
+        .container .frame .first-tile .first-tile-info .schedule-info .top .left {
+          width: 50%;
+          word-spacing: 10px; }
+        .container .frame .first-tile .first-tile-info .schedule-info .top .right {
+          position: absolute;
+          right: 0;
+          top: 0; }
+        .container .frame .first-tile .first-tile-info .schedule-info .middle {
+          margin-top: 10px;
+          word-spacing: 10px; }
+          .container .frame .first-tile .first-tile-info .schedule-info .middle .calender {
+            font-size: small; }
+        .container .frame .first-tile .first-tile-info .schedule-info .bottom {
+          margin-top: 10px;
+          word-spacing: 10px; }
+          .container .frame .first-tile .first-tile-info .schedule-info .bottom .left {
+            width: 50%;
+            word-spacing: 10px; }
+          .container .frame .first-tile .first-tile-info .schedule-info .bottom .bottom-right {
+            position: absolute;
+            right: 0;
+            top: 60px; }
+
+/*# sourceMappingURL=tiles.css.map */
